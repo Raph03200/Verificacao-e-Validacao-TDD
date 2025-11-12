@@ -1,0 +1,23 @@
+{
+  "name": "verificacao-e-validacao-tdd",
+  "version": "1.0.0",
+  "description": "Exercício de Test Driven Development usando Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raph03200/Verificacao-e-Validacao-TDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raph03200/Verificacao-e-Validacao-TDD/issues"
+  },
+  "homepage": "https://github.com/Raph03200/Verificacao-e-Validacao-TDD#readme",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
